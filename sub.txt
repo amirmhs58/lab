@@ -1,4 +1,4 @@
 //profile-title: WARP IR DE
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-warp://auto:2408#Warp IR IP&&detour=warp://auto:500#Warp DE IP
+warp://auto:2408/?ifp=5-10#Warp IR IP&&detour=warp://auto:500/?ifp=300-500#Warp DE IP
